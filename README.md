@@ -1,5 +1,5 @@
 
-# Event Management System API
+# Task Management System API
 
 This is a backend API for an Event Management System built with Node.js, Express.js, and MongoDB. The API supports user authentication, event management and file uploads.
 
