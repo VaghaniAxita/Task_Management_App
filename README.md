@@ -257,7 +257,7 @@ ___________________________________________________
 }
 ```
 
-** Delete Any Task**
+**Delete Any Task**
 - Route: DELETE /admin/tasks/:id
 - Description: Admins can delete any task.
 - Sample Response:
