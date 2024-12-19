@@ -197,7 +197,7 @@ ___________________________________________________
 }
 ```
 
-** Delete Task**
+**Delete Task**
 - Route: DELETE /tasks/:id
 - Description:Users can delete their own tasks
 - Sample Response:
